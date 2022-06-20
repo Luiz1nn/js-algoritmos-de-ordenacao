@@ -6,7 +6,6 @@ function lowerValue (arrayLivros, positionInitial) {
       maisBarato = i
     }
   }
-
   return maisBarato
 }
 
